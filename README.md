@@ -13,21 +13,18 @@ This game was inspired by the game: "LEGO® Five Nights at Freddy's" by @Raulio2
 
 @Raulio20 (Original Game)
 
-# We will not steal profits that are potentially being stolen from Scott in order to avoid any piracy.
+## We will not steal profits that are potentially being stolen from Scott in order to avoid any piracy.
 
 
-SOCIAL:
+## SOCIAL:
 
 https://discord.gg/bqhHy97GjV
 
 https://github.com/CaptainQWasTaken/Lego-FNaF-SL
 
-OTHER GAME:
+## OTHER GAME:
 
 https://gamejolt.com/games/LEGO-Five-Nights-at-Freddys-4/723243
 
 https://github.com/CaptainQWasTaken/Lego-FNAF-4
 
-Tags:
-
-#fnaf #fangame #horror #lego #other
