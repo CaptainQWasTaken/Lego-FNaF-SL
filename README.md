@@ -4,7 +4,7 @@
 
 WHAT IS THIS GAME ABOUT:
 LEGO Five Nights at Freddy's Sister Location is a fan re-imagining of the fifth FNaF game, but with LEGOs!
-This game was inspired by the game: "LEGO® Five Nights at Freddy's" by @Raulio20 
+This game was inspired by the game: "LEGO® Five Nights at Freddy's" by @Raulio20 (Gamejolt)!
 
 
 ## CREDITS
